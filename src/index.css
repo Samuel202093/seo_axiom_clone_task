@@ -1509,7 +1509,7 @@
 .carousel-item {
   position: absolute;
   width: 100%;
-  left: 0;
+  left: 30%;
   right: 0;
   padding: 3rem;
   border-radius: 20px;
