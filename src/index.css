@@ -1617,6 +1617,7 @@
 
   .carousel-item {
     padding: 1.5rem 1rem;
+    left: 60%;
   }
 
   .service-icon {
