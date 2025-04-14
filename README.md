@@ -1,12 +1,41 @@
-# React + Vite
+# SEO Axiom - Digital Marketing & SEO Services
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+A modern, responsive website for a digital marketing and SEO services company built with React.js.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- Responsive design that works on all devices
+- Modern UI/UX with smooth animations
+- Interactive service carousel
+- Dynamic blog section
+- Partner showcase with hover effects
+- Newsletter subscription
+- Contact form with validation
+- Smooth scroll functionality
+- Mobile-friendly navigation
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Technologies Used
+
+- React.js
+- CSS3 (Custom styling)
+- React Icons
+- JavaScript (ES6+)
+
+## 📦 Installation
+
+1. Clone the repository:
+git clone https://github.com/Samuel202093/seo_axiom_clone_task.git
+
+2. Navigate to the project directory:
+   cd seo_axiom
+
+3. Install dependencies:
+   npm install
+
+4. Start the development server:
+   npm start
+
+🎯 Usage
+After installation, the website will be available at http://localhost:3000
+
